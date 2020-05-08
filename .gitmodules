@@ -1,0 +1,30 @@
+[submodule "todo.txt-cli"]
+	path = todo.txt-cli
+	url = git@github.com:todotxt/todo.txt-cli.git
+[submodule "todo.repositories.d/todo.txt-watch"]
+	path = todo.repositories.d/todo.txt-watch
+	url = git@github.com:kynda/todot.txt-watch.git
+[submodule "todo.repositories.d/todo.txt-extended-replace"]
+	path = todo.repositories.d/todo.txt-extended-replace
+	url = git@github.com:kynda/todo.txt-extended-replace.git
+[submodule "todo.repositories.d/todo.txt-study-suite"]
+	path = todo.repositories.d/todo.txt-study-suite
+	url = git@github.com:kynda/todotxt-study-suite.git
+[submodule "todo.repositories.d/todo.txt-recurring-tasks"]
+	path = todo.repositories.d/todo.txt-recurring-tasks
+	url = git@github.com:kynda/todo.txt-recurring-tasks.git
+[submodule "todo.repositories.d/todo.txt-fnd"]
+	path = todo.repositories.d/todo.txt-fnd
+	url = git@github.com:kynda/FND-todo.txt-cli.git
+[submodule "todo.repositories.d/todo.txt-args"]
+	path = todo.repositories.d/todo.txt-args
+	url = git@github.com:kynda/todo.txt-args.git
+[submodule "todo.repositories.d/todo.txt-xp"]
+	path = todo.repositories.d/todo.txt-xp
+	url = git@github.com:kynda/todo.txt-xp.git
+[submodule "todo.repositories.d/todo.txt-cli-addons"]
+	path = todo.repositories.d/todo.txt-cli-addons
+	url = git@github.com:kynda/todo.txt-cli-addons.git
+[submodule "todo.repositories.d/todo.txt-addx"]
+	path = todo.repositories.d/todo.txt-addx
+	url = git@github.com:todotxt/todo.txt-cli.git
